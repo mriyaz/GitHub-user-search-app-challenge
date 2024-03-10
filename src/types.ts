@@ -1,0 +1,17 @@
+export default interface DeveloperInfo {
+    login: string,
+    id: number,
+    avatar_url: string | undefined,
+    name: string | undefined,
+    company: string | undefined,
+    blog: string | undefined,
+    email: string | undefined,
+    location: string | undefined,
+    bio: string | undefined,
+    twitter_username: string | undefined,
+    public_repos: number,
+    followers: number,
+    following: number,
+    created_at: string,
+    updated_at: string,
+  }
