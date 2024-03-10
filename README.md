@@ -43,7 +43,7 @@ The GitHub users API endpoint is `https://api.github.com/users/:username`. So, i
 ### Links
 
 - [Solution URL](https://github.com/mriyaz/github-user-search-app-challenge)
-- [Live Site URL](https://github-user-search-app-challenge.vercel.app/)
+- [Live Site URL](https://git-hub-user-search-app-challenge.vercel.app/)
 
 ## My process
 
